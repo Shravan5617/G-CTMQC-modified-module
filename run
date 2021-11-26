@@ -1,0 +1,2 @@
+cd G-CTMQC_50/g-ctmqc-master/tests/Tully1/
+sed -i '20s/.*/ INITIAL_CONDITION_SEED =50,/' input.in
